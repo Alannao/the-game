@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Alannao/the-game/edit/gh-p
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Right Room Game Page Under Construction Here
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
