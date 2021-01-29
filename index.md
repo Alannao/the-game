@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 #stuff and things
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
