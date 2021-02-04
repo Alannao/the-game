@@ -1,6 +1,6 @@
 # Welcome!
 ---
-Welcome to "The Game's" Group Three's "Right Room" Contributing file, part of IT 115 Class project! Our group is one of four groups, creating on of the Game's four rooms.  We have four members This is. "The Game" is an open source project for students in IT 115. The goal of the project is to learn to create and collaborate web application code on GitHub.
+Welcome to "The Game's" Group Three's "Right Room" Contributing file, part of IT 115 Class project! Our group is one of four groups, creating one of the Game's four rooms.  We have four members. "The Game" is an open source project for students in IT 115. The goal of the project is to learn to create and collaborate web application code on GitHub.
 
 ## Environment Details
 
@@ -17,10 +17,7 @@ You can test the latest version of The Game at this URL:
 Our current testing procedure is to click on each link and check for broken links and missing pages.
 
 ## Bug Reports
-
-Report bugs to your group's leader. You can also report bugs here:
-
-[https://canvas.northseattle.edu/courses/2023764/discussion_topics/12224321]
+TBD
 
 ## Code of Conduct
 
@@ -36,7 +33,7 @@ Please respect the Game's purpose and design structure. The design structure is 
 
 ### Our Group 3, the right room, directories for each author:
 * tunnel1 - @KBish001
-* tunnel2
+* tunnel2 - @Alannao
 * tunnel3
 * tunnel4
 
