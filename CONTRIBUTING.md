@@ -34,8 +34,8 @@ Please respect the Game's purpose and design structure. The design structure is 
 ### Our Group 3, the right room, directories for each author:
 * tunnel1 - @KBish001
 * tunnel2 - @Alannao
-* tunnel3
-* tunnel4
+* tunnel3 - @Tirthank Shah
+* tunnel4 - @dschmaltz
 
 ### Our group directory will point back to instructors directories.  There Index.html will point to one landing page in each group's directory:
 
