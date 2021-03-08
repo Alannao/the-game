@@ -1,25 +1,42 @@
-<!-- TheGame -->
-<!-- version 0.0 -->
-<!-- 1/9/21 -->
-<!-- Right Room -->
-<!-- Tunnel1 KBish001 -->
-<!-- Tunnel2 Alanna -->
-<!-- Tunnel3 Dave -->
-<!-- Tunnel4 Tirthan-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<!-- TheGame Right Room Tunnel 1 Hijack! -->
+<!-- version 1.0 -->
+<!-- 1/23/21 -->
 
-
-
-<html>
-
-<h1> Right Room</h1>
-
-<p>TODO </p>
-
-<p>What will you do now?</p>
+<!--<html>-->
+<!--<head>-->
     
-<p>There are four tunnels.</p>
+ <!--<head>-->
+        <link rel="stylesheet" href="css/style.css">
+        <script src="js/script.js"></script>
+<!--</head>-->
 
-<p>In tunnel one there is room of grow lights and plants.</p>  
+<title>
+Yabba Dabba Doo! Repurposed! Right Room Tunnel 1
+</title>
 
+</head>
+<body onload="buildImages()">
+
+<h1>The Game - Right Room - Tunnel 1</h1>
+
+<h2>Yabba Dabba Doo!! Bob's Cave Screen has been repurposed! Use the controls at your own risk, to find out what's playing NOW!</h2>
+
+<img id="demo" style="" alt="television screen">
+
+<script>
+    document.getElementById("demo").setAttribute("src", myimages[0]);
+    </script>
+    
+<br></br>
+
+<input type="button" value="^" onClick="goHigher()">
+<input type="button" value="v" onClick="goLower()">
+
+
+</body>
 
 </html>
